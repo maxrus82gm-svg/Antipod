@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:\"Documentation/Агентский_цикл.md\" OR path:\"Documentation/История_задач.md\"",
+      "query": "path:\"Documentation/Задача_агенту.md\" OR path:\"Documentation/История_задач.md\"",
       "color": {
         "a": 1,
         "rgb": 3873723
@@ -32,6 +32,6 @@
   "repelStrength": 16.3541666666667,
   "linkStrength": 1,
   "linkDistance": 187,
-  "scale": 0.9999999999999976,
+  "scale": 0.7132754626224401,
   "close": true
 }

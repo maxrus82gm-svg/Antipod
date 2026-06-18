@@ -12,10 +12,14 @@
             "id": "fb3ee6f635dbe9b3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Documentation/Агентский_цикл.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Агентский_цикл"
             }
           }
         ]
@@ -123,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Documentation/Агентский_цикл.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Агентский_цикл"
             }
           },
           {
@@ -141,11 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Documentation/Агентский_цикл.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Агентский_цикл"
             }
           },
           {
@@ -183,12 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Documentation/Агентский_цикл.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Агентский_цикл"
             }
           }
         ]
@@ -211,10 +218,12 @@
   },
   "active": "fb3ee6f635dbe9b3",
   "lastOpenFiles": [
-    "Documentation/Агентский_цикл.md",
-    "Documentation/История_задач.md",
     "00_Главная.md",
     "Добро пожаловать.md",
+    "06_Правила_создания_документов.md",
+    "Documentation/Список_правил.md",
+    "Documentation/Агентский_цикл.md",
+    "Documentation/История_задач.md",
     "Старт.md",
     "Общее.md",
     "START.md",

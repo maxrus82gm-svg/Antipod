@@ -112,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Задача_агенту.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Задача_агенту"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -131,12 +130,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Задача_агенту.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Задача_агенту"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -174,13 +172,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation/Задача_агенту.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Задача_агенту"
+              "title": "Структура"
             }
           }
         ]
@@ -201,16 +198,16 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "fb3ee6f635dbe9b3",
+  "active": "a96486248ae7c24a",
   "lastOpenFiles": [
     "Documentation/Задача_агенту.md",
+    "Documentation/Список_правил.md",
     "Documentation/Агентский_цикл.md",
     "Documentation/История_задач.md",
     "07_Правила_Git_и_Review.md",
     "00_Главная.md",
     "Добро пожаловать.md",
     "06_Правила_создания_документов.md",
-    "Documentation/Список_правил.md",
     "Старт.md",
     "Общее.md",
     "START.md",

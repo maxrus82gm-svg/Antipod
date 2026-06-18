@@ -6,19 +6,16 @@
       {
         "id": "4655b26b45cdb642",
         "type": "tabs",
+        "dimension": 49.05234657039711,
         "children": [
           {
             "id": "fb3ee6f635dbe9b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Добро пожаловать.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Добро пожаловать"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -26,6 +23,7 @@
       {
         "id": "a6071c7c3234925e",
         "type": "tabs",
+        "dimension": 50.94765342960289,
         "children": [
           {
             "id": "754f81cc9d95ba2f",
@@ -36,8 +34,23 @@
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
+          },
+          {
+            "id": "a96486248ae7c24a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentation/Агентский_цикл.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Агентский_цикл"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Добро пожаловать.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Добро пожаловать"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -129,12 +141,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Добро пожаловать.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Добро пожаловать"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -172,13 +183,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Добро пожаловать.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Добро пожаловать"
+              "title": "Структура"
             }
           }
         ]
@@ -201,6 +211,25 @@
   },
   "active": "fb3ee6f635dbe9b3",
   "lastOpenFiles": [
-    "Добро пожаловать.md"
+    "Documentation/Агентский_цикл.md",
+    "Documentation/История_задач.md",
+    "00_Главная.md",
+    "Добро пожаловать.md",
+    "Старт.md",
+    "Общее.md",
+    "START.md",
+    "12_START_зеркало.md",
+    "11_AGENT_TASK_LOOP_зеркало.md",
+    "10_Правила_агента.md",
+    "06_Идеи.md",
+    "05_Очередь_задач.md",
+    "04_Архитектура.md",
+    "03_Открытые_вопросы.md",
+    "02_Решения.md",
+    "01_Текущее_состояние.md",
+    "00_Проверка_хвостов_Documentation.md",
+    "Documentation/TASK_HISTORY.md",
+    "Documentation/AGENT_TASK_LOOP.md",
+    "Documentation"
   ]
 }

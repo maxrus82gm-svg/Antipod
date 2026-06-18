@@ -5,18 +5,33 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "00_Главная",
+      "color": {
+        "a": 1,
+        "rgb": 5698816
+      }
+    },
+    {
+      "query": "path:\"Documentation/Агентский_цикл.md\" OR path:\"Documentation/История_задач.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3873723
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2.1,
+  "nodeSizeMultiplier": 1.50364583333333,
+  "lineSizeMultiplier": 2.55,
+  "collapse-forces": false,
+  "centerStrength": 0.515625,
+  "repelStrength": 16.3541666666667,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "linkDistance": 187,
+  "scale": 0.9999999999999991,
   "close": true
 }
